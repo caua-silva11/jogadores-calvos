@@ -1,0 +1,14 @@
+* {
+    font-style: italic;
+    text-align: center;
+}
+body {
+   background-color: rgb(114, 113, 113); 
+   color: antiquewhite;
+   
+}
+img {
+    width: 180px;
+    border-radius: 20px;
+}
+
